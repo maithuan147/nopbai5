@@ -1,0 +1,2878 @@
+@font-face{
+	font-family: Arcon;
+	src:url("../font/Arcon-Rounded-Regular.otf");
+}
+
+.lotus,.aboutus,.wordpass,.education,.blog,.contact,.acticle{
+	max-width: 1920px;
+	font-family: Arcon;
+	line-height: 1.2;
+	margin: 0px auto;
+}
+.lotus,.aboutus,.wordpass,.education,.blog,.contact,.acticle{
+	overflow: hidden;
+}
+.col-1-4{
+	float: left;
+	width: 24.99%;
+	height: ;
+}
+.col-1-2{
+	float: left;
+	width: 50%;
+	height: ;
+}
+.col-1-2 img{
+	width: 100%;
+	height: ;
+}
+.col-1-2n{
+	float: left;
+	width: 50%;
+	height: 1080px;
+}
+.col-1-3{
+	float: left;
+	width: 33.33%;
+}
+.col-2-3{
+	float: left;
+	width: 66.66%;
+	height: ;
+}
+.col-3-4{
+	float: left;
+	width: 74.99%;
+	height: ;
+}
+.col-1-6{
+	float: left;
+	width: 16.66%;
+}
+.col-5-6{
+	float: left;
+	width: 83.33%;
+}
+.col-2-5{
+	float: left;
+	width: 39.99%
+}
+.col-3-5{
+	float: left;
+	width: 59.99%;
+}
+.lotus--color-white{
+	color: #fff;
+}
+.header-menu{
+	display: inline-block;
+	height: 1080px;
+	background: #f9f9f9;
+	float: left;
+	padding-left: 9.4%;
+	width: 100%;
+	line-height: 1.4;
+}
+.blog-menu{
+	display: inline-block;
+	height: 1080px;
+	float: left;
+	padding-left: 45px;
+	width: 100%;
+	line-height: 1.4;
+}
+.lotus--color-red{
+	background: #f9f9f9;
+}
+.lotus--color-brown{
+	background: #f9f9f9;
+	height: 1080px;
+	max-width: 960px;
+}
+.internship--color-brown{
+	background: #f9f9f9;
+	height: 1080px;
+}
+.internship--background-white{
+	background-color: rgba(251,253,253,0.6);
+	height: 1080px;
+	width: 131%;
+	position: relative;
+	top: 0px;
+	margin-left:55px; 
+}
+.lotus--background-white{
+	background-color: rgba(251,253,253,0.6);
+	height: 1080px;
+	width: 100%;
+}
+.blog--background-white{
+	background-color: rgba(251,253,253,0.6);
+	height: 540px;
+	width: 100%;
+}
+.lotus--background-brown{
+	background-color: rgba(249,249,249,1);
+	height: 1080px;
+	width: 100%;
+}
+.blog--color-brown{
+	background-color: rgba(249,249,249,1);
+	height: 540px;
+	width: 100%;
+}
+.lotus--background-blackbrown{
+	background-color: rgba(86,86,86,0.8);
+	height: 1080px;
+	width: 100%;
+}
+.lotus--background-black{
+	background-color: #333333;
+	height: 1080px;
+	width: 100%;
+}
+.lotus--img-lotuslogo{
+	z-index: 2;
+	margin-left: 10px;
+}
+.student--background-white{
+	background-color: rgba(251,253,253,0.8);
+	height: 1080px;
+	width: 100%;
+}
+.header-menu__logo img{
+	float: left;
+	margin-right: 5px;
+	margin-left: -10px;
+	margin-bottom: 25px;
+}
+
+.header-menu__English{
+	clear: left;
+	margin-bottom: 15px;
+	font-size: 20px;
+}
+.header-menu__Eng{
+	clear: left;
+	margin-bottom: 75px;
+	font-size: 20px;
+}
+.header-menu__selection ul li a{
+	color: #555555;
+}
+.header-menu__selection ul{
+	list-style: none;
+	margin-left: -37px;
+	font-size: 26px;
+}
+.header-menu__selection ul li a:hover{
+	color: #fcbebd;
+}
+.posison-flex{
+	font-size: 18px;
+	position: fixed;
+	bottom: -30px;
+	right: 60px;
+	z-index: 2;
+}
+.posison-flex ul{
+	list-style: none;
+	padding-bottom: 20px;
+}
+.posison-flex ul li{
+	padding-bottom: 20px;
+}
+.posison-flex ul li a{
+	background-color: #555555;
+	text-decoration: none;
+}
+.posison-flex ul li a:hover{
+	background-color: black;
+}
+.color-prink a{
+	color: #fcbebd !important;
+}
+.header-menu__selection ul li ul li{
+	margin-left: 25px;
+	padding-bottom: 2.5px;
+}
+.header-menu__selection{
+	margin-left: 40px;
+}
+.header-menu__selection ul li{
+	margin-top: 25px;
+}
+.header-menu__selection nav{
+	margin-bottom: 63px;
+}
+.header-menu__in{
+	margin-bottom: 65px;
+	font-size: 30px;
+	margin-left: 0px;
+}
+.header-menu__f{
+	font-size: 30px;
+	margin-left: 0px;
+}
+.header-left-chevron{
+	position: relative;
+	top: 514px;
+	margin-left: -120%;
+	max-width: 40px;
+	height: 50px;
+}
+
+.header-right-chevron{
+	position: relative;
+	top: 514px;
+	margin-left: 83%;
+	max-width: 40px;
+	height: 50px;
+}
+.icon--header-left-mobi{
+	display: none;
+}
+.test1-left-chevron{
+	position: relative;
+	top: 514px;
+	left: 85%;
+	max-width: 40px;
+	height: 50px;
+}
+
+.test1-right-chevron{
+	position: relative;
+	top: 514px;
+	margin-left: 30px;
+	max-width: 40px;
+	height: 50px;
+}
+.logo--hover{display: none;}
+.header-HELLO ul li{
+	list-style: none;
+}
+.img-header{
+  background-image: url("../img/img header.jpg");
+  height: 1080px;
+  position: relative;
+}
+.header-HELLO{
+	height: 1080px;
+	width: 100.1%;
+	background-color: rgba(150,37,52,0.8);
+}
+.header h2{
+	position: absolute;
+	padding-top: 450px;
+	padding-left: 52%;
+	color: #fff;
+	font-size: 100px;
+}
+.header-HELLO h1{
+	font-size: 60px;
+	font-family: Arcon;
+}
+.col--background--red{
+	background: #962534;
+	height: 1080px;
+}
+.nav{
+	clear: left;
+	height: 1080px;
+}
+.nav-while{
+	width: 100%;
+}
+.nav-img__imgnav{
+	background-image: url("../img/img nav.png");
+	height: 1080px;
+	width: 100%;
+	background-repeat:repeat;
+	background-size: contain;
+}
+.nav-logo-mobi{
+	display: none;
+}
+.nav-logo{
+	position: relative;
+	top: 0;
+	left: 40px;
+}
+.nav-logo h1{
+	margin-left: 100px;
+	margin-top: -70px;
+	font-size: 30px;
+	font-family: Arcon;
+}
+.wordpass-logo{
+	position: absolute;
+	margin-left: 40px;
+	z-index: 1;
+}
+.wordpass-logo-mobi{
+	position: absolute;
+	max-width: 95px;
+	height: 100px;
+	margin-left:160px;
+	z-index: -1;
+}
+.wordpass-logo img{
+	display: inline-block;
+	max-width: 95px;
+	height: 100px;
+}
+.wordpass-logo h2{
+	margin-left: 100px;
+	margin-top: -70px;
+	font-size: 30px;
+	font-family: Arcon;
+}
+.nav-section{
+	height: 1080px;
+    display: flex;
+	flex-direction: column;
+	justify-content: center;
+	margin-left: 30px;
+	margin-right: 35%;
+}
+.nav-section p{
+	font-size: 26.5px;
+	padding-bottom: -10px;
+}
+.nav-section h3{
+	font-size: 50.5px;
+	margin-bottom: 25px;
+}
+.nav-section button{
+	margin-left: 0%;
+}
+.btn--margin-right{
+	margin-left: 55px;
+}
+.btn--color-red{
+	margin-left: 0%;
+	width: 290px;
+	max-width: 100%;
+	height: 60px;
+	color: #fff;
+	background: #962534;
+	border: 1px solid #962534;
+	margin-top:50px;
+	font-size: 26px;
+}
+.btn--color-white{
+	width: 290px;
+	max-width: 100%;
+	height: 60px;
+	color: #962534;
+	background: #fff;
+	border: 1px solid #fff;
+	margin-top:50px; 
+	font-size: 26px;
+}
+.wordpass--nav .btn--color-white-mobi,.student .btn--color-white-mobi,.entry .btn--color-white-mobi{
+  	display: none;
+  }
+.btn--margin-top{
+	margin-top: 50px;
+}
+.blog--btn-top{
+	margin-top: 40px;
+}
+.IMMIGRATION{
+	padding-top: -80px;
+	clear: left;
+}
+.IMMIGRATION-img__immigration{
+	background-image: url("../img/immigration.jpg");
+	height: 1080px;
+	margin-top: -82px;
+}
+.col--IMMIGRATION--background{
+	background: #962534;
+	height: 1080px;
+	margin-top: -82px;
+}
+.IMMIGRATION-section{
+	margin: 200px 290px 200px 30px;
+	font-size: 26px;
+}
+.IMMIGRATION-section p{
+	margin-bottom: 70px;
+}
+.EDUCATION{
+	clear: left;
+	height: 1070px;
+}
+.EDUCATION--margin-top{
+	margin-top: -87px;
+}
+.EDUCATION--p-top{
+	margin-top: 50px;
+}
+.d{
+	height: 1080px;
+}
+.section--col-right{
+	padding-top: 226px;
+	margin-left: 460px;
+	height: auto;
+	margin-right: 30px; 
+}
+.section--col-right p{
+	font-size: 25px;
+	float: right;
+	margin-top: -5px;
+	text-align: right;
+	margin-bottom: 20px;
+}
+.section--col-right li{
+	font-size: 25px;
+	margin-left: 60px;
+	text-align: right;
+	margin-top: 40px;
+}
+.section--col-right button{
+	margin-left: 235px;
+	margin-top: 50px;
+	max-width: 300px;
+}
+.section--marginbottom{
+	padding-bottom: 45px;
+}
+.EDUCATION--img-education{
+	background-image: url("../img/education.jpg");
+	width: 100%;
+	height: 1080px;
+	
+}
+.ACCOMODATION{
+	clear: left;
+	margin-top: -5px;
+}
+.ACCOMODATION--img-education{
+	background-image: url("../img/accomodation.jpg");
+	width: 100%;
+	height: 1080px;
+}
+
+.ACCOMODATION-color{
+	position: relative;
+	top: 0px;
+	right: 0px;
+	width: 100%;
+	height: 1080px;
+	background-color: rgba(150,37,52,0.8);
+}
+.ACCOMODATION-section p{
+	display: inline-block;
+	font-size: 25px;
+	margin-left:30px;
+	margin-top:320px;
+	margin-bottom: 0px;
+}
+.ACCOMODATION-section button{
+	margin-left:30px; 
+}
+.ACCOMODATION-section{
+	height: 1080px;
+	width: 100%;
+	background-color: rgba(150,37,52,0.8);
+}
+.ORIENTATION{
+	clear: left;
+}
+.EDUCATION--margin-bottomli{
+	padding-bottom: 35px;
+}
+.EDUCATION--img-orientation{
+	background-image: url("../img/orientation.jpg");
+	width: 100%;
+	height: 1080px;
+}
+.CORPORATE--img-corporate{
+	background-image: url("../img/corporate.jpg");
+	width: 100%;
+	height: 1080px;
+}
+.col--margin-top-IMMIGRATION{
+	margin-top: 0px;
+}
+
+.CORPORATE-section{
+	margin: 140px 290px 0px 30px;
+	font-size: 25px;
+}
+.CORPORATE-section p{
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+.CORPORATE-section ul li{
+	margin-bottom: 20px;
+}
+.CORPORATE-section button{
+	margin-top: 30px;
+	margin-left: 40px;
+}
+.TESTIMONIALS{
+	clear: left;
+	position: relative;
+	top: -4px;
+}
+.TESTIMONIALS--img--left{
+	margin-top: 440px;
+	margin-left: 400px;
+}
+.TESTIMONIALS--img--right{
+	margin-top: 510px;
+	margin-left: 40px;
+}
+.TESTIMONIALS__title{
+	padding: 360px 155px;
+}
+.TESTIMONIALS__title p{
+	font-size: 25px;
+	margin-bottom: 70px;
+	text-align: justify;
+}
+.TESTIMONIALS__title span{
+	font-size: 25px;
+	color: #a9a9a9;
+}
+.TESTIMONIALS--img--testimonials{
+	background-image: url("../img/testimonials.jpg");
+	background-size: 100%
+	width: 100%;
+	height: 1080px;
+}
+.aside{
+	clear: left;
+	position: relative;
+	width: 100%;
+	height: 965.54px;
+	background: #333333;
+	margin:0px auto;
+}
+.asideicon{
+	width: 29%;
+	height: 587px;
+	background-image: url("../img/asideicon.png");	
+	bottom: 150px;
+	position: absolute;
+	right: 150px;
+	z-index: 0;
+}
+.aside--logo{
+	color: #fff;
+	font-size: 26px;
+	margin-left: 38px;
+}
+.aside--logo img{
+	position: absolute;
+	top: 0;
+}
+.aside--logo p{
+	margin-top: 210px;
+	margin-left: 49px;
+	margin-right: 170px;
+	font-size: 26px;
+	line-height: 1.2;
+}
+.aside--title ul{
+	line-height: 1.4;
+	color: #fff;
+	list-style: none;
+	margin-left: -10px;
+	font-size: 26px;
+	margin-top: 207px;
+}
+.aside--title ul li{
+	margin-bottom:26.5px; 
+}
+.asideicon{
+	margin-left: 80px;
+}
+.aside--address{
+	margin-top: 200px;
+}
+.aside--address ul{
+	list-style: none;
+	font-size: 26px;
+	position: relative;
+	right: 0px;
+	color: #a5807f;
+	line-height: 1.4;
+	z-index: 1;
+}
+.aside--address ul li ul{
+	color: #fff;
+	margin-bottom: 21px;
+}
+.aside--address ul li ul li{
+	margin-left: -40px;
+	margin-top: -2.5px;
+}
+.aside--title a{
+	color: #fff
+}
+.aside--color-white{
+	color: #fff !important;
+	margin-bottom: 20px;
+}
+.aside--img-top{
+	position: absolute;
+	left: 1815px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	width: 2.8%;
+	background: #fff;
+}
+.footer{
+	padding: -200px 0;
+	background-color: #202020;
+	margin:0px auto;
+}
+.footer ul{
+	display: inline-block;
+	margin-left: 175px;
+	margin-top: 40px;
+	margin-bottom: 19px;
+}
+.footer ul li{
+	display: inline-block;
+}
+.footer--pdpa-margin{
+	margin-right: 425px;
+	font-size: 20px;
+	color: #fff;
+}
+.footer--faq-margin{
+	margin-right: 345px;
+	font-size: 20px;
+	color: #fff;
+}
+.footer--term-margin{
+	margin-right: 190px;
+	font-size: 20px;
+	color: #fff;
+}
+.footer--ltd-margin{
+	font-size: 20px;
+	color: #fff;
+	margin-top: -20px;
+}
+.footer--all-margin{
+	margin-left: 1480px;
+	font-size: 20px;
+	color: #fff;
+}
+.footer--ltd-margin::before{
+	content: '\00A9';
+}
+.aboutus--header-img{
+	background-image: url("../img/backgr12-1024x267.png");
+	height: 540px;
+	position: relative;
+	top: 0px;
+	z-index: -1;
+	margin-left: -300px;
+}
+.aboutus--header-background{
+	height: 540px;
+	background-color: rgba(150,37,52,0.8);
+	position: relative;
+	top: 0px;
+	margin-left: 100px;
+}
+.aboutus--header-section{
+	width: 53.66%;
+	margin-left:30px;
+	height: 470px;
+}
+.aboutus--header-section p{
+	font-size: 26px;
+	margin-top: 40px;
+}
+.aboutus--nav{
+	clear: left;
+}
+.aboutus--nav-section-margin-top{
+	margin-top: -73px;
+}
+.aboutus--nav-img{
+	background-image: url("../img/aboutus--nav-img.jpg");
+	height: 1080px;
+    
+}
+.aboutus--nav-img-background{
+	background-color: rgba(81,69,68,0.7);
+	height: 1080px;
+}
+.aboutus--nav-img h2{
+	font-size: 50px;
+	margin-right: 10px;
+}
+.aboutus--nav-img p{
+	font-size: 26px;
+	padding-top: 10px;
+	line-height: 1.2;
+	padding-left: 20px;
+	margin-right: 10px;
+}
+.aboutus--section2-col-top{
+	margin-top: 250px;
+}
+.aboutus--section1 h2{
+	font-size: 50px;
+	margin-top: -60px;
+	margin-right: 10px;
+	
+}
+.aboutus--section1 p{
+	font-size: 26px;
+	padding-top: 20px;
+	line-height: 1.2;
+	padding-left: 20px;
+	margin-right: 10px;
+}
+.aboutus--section2 h2{
+	font-size: 50px;
+	margin-top: 0px;
+}
+.aboutus--section{
+	display: inline-block;
+	width: 65.68%;
+}
+.aboutus--section--textalign-right{
+	text-align: right;
+}
+.aboutus--section--col-top{
+	margin: 260px 0px 0 32%;
+}
+.aboutus--section--col-bottom{
+	margin: 510px 0 0 30px;
+}	
+
+.aboutus--section--color-white{
+	color: #fff;
+}
+.aboutus--nav-background{
+	background:#333333;
+	width: 100%;
+	height: 1080px;
+}
+.aboutus--section ul{
+	font-size: 24px;
+	list-style: none;
+}
+.aboutus--section ul li{
+	margin-top: 30px;
+	margin-left: -40px;
+}
+.aboutus--section ul li ul li{
+	margin-top: 0px;
+}
+.wordpass--header-img{
+	background-image: url("../img/wordpass.jpg");
+	background-position: right;
+	width: 100%;
+	height: 1080px;
+}
+.aboutus--section2 h2{
+	font-size: 50px !important;
+}
+.aboutus--nav-background h2{
+	z-index: 1;
+	font-size: 100px;
+}
+.aboutus--nav-background{
+	font-size: 26px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding-left: 30px
+}
+.aboutus--nav-background p{
+	z-index: 1;
+	font-size: 26px;
+	padding-top: 10px;
+	line-height: 1.2;
+}
+.wordpass--header-background{
+	background-color: rgba(132,96,80,0.5);
+	height: 1080px;
+}
+.wordpass--nav-img{
+	background-image: url("../img/wordpass--nav-img.jpg");
+	background-position: left;
+	width: 100%;
+	height: 1080px;
+}
+.wordpass--section{
+	font-size: 26px;
+	padding: 0px 33.9% 0 30px;
+}
+.wordpass--section p{
+	line-height: 1.2;
+	margin: 0px;
+}
+.student .wordpass--section{
+	width: 220%;
+	margin-left: 300%;
+}
+.forcor-img{
+	background-image: url("../img/forcur-img.jpg");
+	background-position: center;
+	width: 100%;
+	height: 1080px;
+}
+.forcor--section{
+	font-size: 26px;
+	padding: 0px 30px 0 50.83%;
+}
+.forcor--section h2{
+	font-size: 50px;
+	margin-bottom: 38px;
+}
+.forcor--section p{
+	line-height: 1.2;
+}
+.student-img{
+	background-image: url("../img/student-img.jpg");
+	height: 1080px;
+	position: relative;
+	top: 0px;
+	z-index: -1;
+}
+.permanent-img{
+	background-image: url("../img/permanent.jpg");
+	height: 1080px;
+	background-position: center;
+}
+.permanent--section{
+	font-size: 26px;
+	padding: 0px 30px 0 30px;
+}
+.permanent--section p{
+	line-height: 1.2;
+	margin: 0px;
+}
+.entry--background{
+	height: 1080px;
+}
+.entry--section{
+	font-size: 26px;
+	padding: 0px 30px 0 47.91%;
+}
+.entry--section p{
+	margin: 0px;
+	line-height: 1.2;
+
+}
+.entry--section-button{
+	position: absolute;
+	right: 51.5%;
+}
+.entry-img{
+	background-image: url("../img/entry-img.jpg");
+	height: 1080px;
+	background-position: right;
+}
+.education--header-img{
+	background-image: url("../img/education--header-img.jpg");
+	height: 1080px;
+	background-position: right;
+}
+.education--header-section{
+	font-size: 26px;
+	padding: 0px 52.08% 0px 40px;
+}
+.education--header-section h2{
+	font-size: 100px;
+	mar
+
+}
+.education--header-section p{
+	margin: 0;
+	line-height: 1.2;
+}
+.application-img{
+	background-image: url("../img/application-img.jpg");
+	height: 1080px;
+	background-position: center;
+}
+.application--section{
+	font-size: 26px;
+	padding: 0px 34.375% 0 30px;
+}
+.application--section h2{
+	font-size: 51px;
+	margin-bottom: 38px;
+}
+.application--section p{
+	margin: 0px;
+	line-height: 1.2;
+}	
+.homestay-img{
+	background-image: url("../img/homestay-img.jpg");
+	height: 1080px;
+	background-position: center;
+}
+.homestay--section{
+	font-size: 26px;
+	padding: 0px 40px 0 34.17%;
+}
+.homestay--section h2{
+	font-size: 51px;
+	margin-bottom: 38px;
+	text-align: right;
+}
+.homestay--section p{
+	margin: 0px;
+	line-height: 1.2;
+}
+.programs-img{
+	background-image: url("../img/programs-img.jpg");
+	height: 1080px;
+	background-position: center;
+}
+.programs--section{
+	font-size: 26px;
+	padding: 0px 25% 0 30px;
+}
+.programs--section h2{
+	font-size: 51px;
+	margin-bottom: 38px;
+}
+.programs--section p{
+	margin: 0px;
+	line-height: 1.2;
+}
+.internship-img{
+	background-image: url("../img/internship-img.jpg");
+	height: 1080px;
+	background-position: center;
+}
+.internship--background-white h2{
+	font-size: 50px;
+}
+.internship--background-white{
+	font-size: 26px;
+	padding: 0px 27px 0px 30px;
+}
+.internship--background-white p{
+	line-height: 1.2;
+	margin-top: 30px;
+}
+.internship--background-white ul{
+	margin-top: 35px;
+	margin-left: -18px;
+}
+.internship--background-white ul li{
+	margin-bottom: 32px;
+	line-height: 1.2;
+}
+.btn--internship-top{
+	margin-top: 15px; 
+}
+
+.blog--img-top{
+	background-image: url("../img/blog--img-top.jpg");
+	height: 540px;
+	background-position: center;
+}
+.blog--img-bottom{
+	background-image: url("../img/blog--img-bottom.jpg");
+	height: 540px;
+	background-position: center;
+}
+.blog--section{
+	font-size: 26px;
+	padding: 7.22% 33.854% 0 30px;
+}
+.blog--section h2{
+	font-size: 50px;
+	margin-bottom: 38px;
+}
+.blog--section p{
+	margin: 0px;
+	line-height: 1.2;
+}
+.blog--section-bottom{
+	font-size: 26px;
+	padding: 178px 34.375% 0 30px;
+}
+.blog-nav{
+	clear: left;
+}
+.blog-nav--img-top{
+	background-image: url("../img/blog-nav--img-top.jpg");
+	height: 540px;
+	background-position: center;
+}
+.blog-nav--img-bottom{
+	background-image: url("../img/blog-nav--img-bottom.jpg");
+	height: 540px;
+	background-position: center;
+}
+.blog-nav--margin-top{
+	margin-top:-35px; 
+}
+.blog-nav--margin-right{
+	line-height: 1.2;
+}
+
+.blog-ban{
+	clear: left;
+}
+.blog-ban--img-top{
+	background-image: url("../img/blog-ban--img-top.jpg");
+	height: 540px;
+	background-position: center;
+}
+.blog-ban--img-bottom{
+	background-image: url("../img/blog-ban--img-bottom.jpg");
+	height: 540px;
+	background-position: center;
+}
+.aside{
+	max-width: 1920px;
+}
+.footer{
+	max-width: 1920px;
+}
+.contact--header-img{
+	background-image: url("../img/contact--header-imf.jpg");
+	height: 1080px;
+	background-position: center;
+}
+.contac--margin-top{
+	display: inline-block;
+	margin-top: -82px;
+	margin-left: 20px
+}
+.contac--margin-top p{
+	margin-top: -10px;
+}
+form{
+	display: inline-block;
+	margin: 200px 0px 0 60px;
+	font-size: 20px;
+	line-height: 1.1;
+}
+label input{
+	margin-bottom: 20px;
+}
+.form--input-name{
+	width: 520px;
+	height: 70px;
+	padding-left: 40px;
+	border: 2px solid #962534;
+}
+.form--input-email{
+	width: 520px;
+	max-width: 100%;
+	height: 70px;
+	padding-left: 40px;
+	border: 2px solid #962534;
+}
+.form-checkbox{
+}
+.form-checkbox input{
+	position: relative;
+	top: 10px;
+	right: 10px;
+	width: 30px;
+	height: 30px;
+	background: #fff;
+	border: 2px solid #962534;
+}
+.form-checkbox label{
+	position: relative;
+	top: -10px;
+	right: -10px;
+	margin-bottom: 10px;
+}
+.form--input-Message{
+	width: 520px;
+	height: auto;
+	padding-left: 40px;
+	border: 2px solid #962534;
+	margin-top: 10px;
+	padding-top:30px;
+	padding-bottom:130px; 
+}
+.captcha{
+	background-image: url("../img/captcha.jpg");
+	height: 80px;
+	width: 313px;
+	position: relative;
+	top: 0px;
+	left:0px;
+	margin-top:15px;
+	
+}
+.captcha input{
+	position: relative;
+	top: 20px;
+	left:15px;
+}
+.checkbox--margin-right label{
+	font-size: 16px;
+	margin-left: -40px;
+}
+.btn--captcha-top{
+	margin-top: 0px;
+}
+form p{
+	font-size: 20px;
+	color: #962534;
+	margin-top: 20px;
+}
+.acticle--background-brown{
+	background-color: #f9f9f9;
+	height: 1975px;
+}
+.acticle--header-img-brown{
+	background-color: #f9f9f9;
+	height: 140px;
+}
+.acticle-img{
+	background-image: url("../img/blog--img-top.jpg");
+	height: 540px;
+	background-position: center;
+	position: relative;
+}
+.acticle--background--red{
+	background-color: #962534;
+	height: 540px;
+}
+.acticle--background-fff{
+	background-color: #fff;
+	height: 1975px;
+}
+.acticle--background-white{	
+	background-color: rgba(251,253,253,0.6);
+	height: 540px;
+	width: 100%;
+}
+.acticle--background-brownblack{
+	position: absolute;
+	bottom: 0px;
+	width: 100%;
+	background-color: rgba(86,86,86,0.8);
+	height: 50px;
+}
+.acticle--background-brownblack p{
+	font-size: 20px;
+	color: #fff;
+	margin-left: 30px; 
+	margin-top: 10px;
+}
+.acticle--background--red{
+	display: flex;
+	position: relative;
+	flex-direction: column;
+	justify-content: center;
+	padding-left: 30px;
+	color: #fff;
+	line-height: 1.2;
+}
+.acticle--background--red h2{
+	font-size: 50px;
+}
+.acticle--background--red p{
+	position: absolute;
+	bottom: 0px;
+	font-size: 20px;
+}
+
+.acticle--section{
+	clear: left;
+	position: absolute;
+	top: 580px;
+	margin-right: 425px;
+	font-size: 26px;
+	line-height: 1.2;
+}
+.acticle--section p{
+	margin-bottom: 30px;
+	margin-right: 15px;
+}
+.acticle-table td{
+	padding: 20px;
+}
+.acticle-table th{
+	font-size: 40px;
+	padding: 20px;
+}
+.table-margin-center,.table-margin-left{
+	text-align: center;
+}
+table {
+	font-family: Sans-serif;
+	margin-top: 50px;
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 40px;
+    margin-bottom: 40px
+}
+tr:nth-child(odd) {
+	background-color: #ececec;
+}
+tr:nth-child(even) {
+	background-color: #f9f9f9;
+}
+.acticle--header-img h2{
+	font-size: 50px;
+	text-align: center;
+	margin-top: 55px;
+	margin-left: 15px;	
+}
+.acticle--img__background-red{
+	background-color: rgba(175,54,72,0.8);
+	height: 540px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	position: relative;
+}
+.acticle--img__background-red h2{
+	font-size: 50px;
+	color: #fff;
+	margin: 0 30px;
+}
+.acticle--img__background-red img{
+	position: absolute;
+	bottom: 30px;
+	right: 30px;
+	max-width: 40px;
+	height: 50px;
+}
+.lotus--btn-top{
+	margin-top: 25px;
+}
+.immigration1{
+	clear: left;
+}
+.immigration-img1{
+	background-image: url("../img/immigration.jpg");
+	width: 100%;
+	height: 1080px;
+}
+.home--text-center{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.immigration1 .col--background--red{
+	margin-left: -1px;
+}
+.immigration1--section{
+	color: #fff;
+	font-size: 26px;
+	margin-left: 3%;
+	margin-right: 30%;
+}
+.immigration1--section p{
+	margin-bottom: 55px;
+}
+.immigration1--section ul{
+	margin-left: -10px;
+}
+.education1{
+	clear: left;
+}
+.education1-img{
+	background-image: url("../img/1.jpg");
+	width: 100%;
+	height: 1080px;
+	background-position: right;
+}
+
+.accom1{
+	float: left;
+}
+.accom1-img{
+	background-image: url("../img/accomodation.jpg");
+	width: 100%;
+	height: 1080px;
+}
+.accom1 .immigration1--section{
+	margin-right: 330px;
+}
+.orien1{
+	float: left;
+	height: 1080px;
+}
+.orien1-img{
+	background-image: url("../img/orientation.jpg");
+	width: 100%;
+	height: 1080px;
+}
+.corpo1-img{
+	background-image: url("../img/corporate.jpg");
+	width: 100%;
+	height: 1080px;
+}
+.corpo1 .wordpass-logo h2{
+	color: #fff;
+}
+.immigration1--section1{
+	font-size: 26px;
+	padding-left: 40%;
+	margin-right: 30px;
+}
+.immigration1--section1 button{
+	position: absolute;
+	right: 51.5%;
+}
+.education-magin-right{
+	margin-right: -325px;
+}
+.immigration1--section1 ul li{
+	margin-top: 40px;
+}
+.immigration1--section ul li{
+	margin-bottom: 30px;
+}
+.test1 p{
+	font-size: 26px;
+	margin-bottom: 80px;
+	margin-left: 16.45%;
+	margin-right: 16.45%;
+	text-align: justify;
+}
+.test1{
+	clear: left;
+}
+.test1-img{
+	background-image: url("../img/testimonials.jpg");
+	width: 100%;
+	height: 1080px;
+}
+.logo-reponsiver{
+	display: none;
+	background-image: url("../img/orientation.png");
+  	width: 209px;
+	height: 102px;
+	margin-left: 40%;
+	position: absolute;
+}
+.education5{
+	max-width: 1920px;
+	background-color: #f9f9f9;
+	height: 1080px;
+}
+.section5-img{
+	background-image: url("../img/1.jpg");
+	height: 1080px;
+	background-position: center;
+	background-size: cover;
+}
+.footer-mobi{
+	display: none;
+	font-size: 23px;
+	padding: 20px 0px;
+	background: #202020;
+}
+.footer-mobi a{
+	color: white;
+}
+.test1-left-chevron-reponsiver{
+	display: none;
+}
+.icon--lotus-header-mobi{
+	display: none;
+}
+.lotus-logo-mobi-white{
+	display: none;
+}
+/*reponsiver 1500*/
+
+@media only screen and (max-width: 1500px){
+	.lotus{
+		font-size: 24px;
+	}
+	.posison-flex{
+		font-size: 18px;
+	}
+	.immigration1 .immigration1--section{
+		width: 70%;
+		font-size: 24px;
+	}
+	.nav-section{
+		width: 60%;
+		font-size: 24px;
+	}
+	.nav-img__imgnav{
+		position: absolute;
+		left: 17.5%;
+		z-index: -1;
+	}
+	.corpo1 .immigration1--section{
+		width: 80%;
+		font-size: 24px;
+	}
+	.test1 .test1-left-chevron{
+		top: 490px;
+		left: 75%;
+	}
+	.aboutus--header-section{
+		width: 65%;
+	}
+	.aboutus--header-section p{
+		font-size: 25px;
+	}
+	.wordpass p{
+		font-size: 24px  ;
+	}
+	.wordpass .wordpass--header .aboutus--nav-background h2{
+		font-size: 85px;
+		margin-left:15%;
+	}
+	.wordpass .wordpass--header h2{
+		font-size: 84px !important;
+	}
+	.education h2{
+		font-size: 40px;
+	}
+	.education p{
+		font-size: 25px;
+	}
+	.education--header-section{
+		width: 115%;
+	}
+	.application--section{
+		width: 110%;
+	}
+	.homestay--section{
+		width: 115%;
+		margin-left: -13%;
+	}
+	.programs--section{
+		width: 115%;
+	}
+	.internship--section{
+		width: 125%;
+	}
+	.blog-nav--margin-right{
+		margin-top: 10%;
+	}
+	.blog--section{
+		width: 110%;
+	}
+	.acticle-nav-img {
+		clear: left;
+	}
+	.contact .col-1-6 .lotus--color-brown{
+		visibility: hidden;
+	}
+	.contact .col-1-2 .lotus--color-brown{
+		width: 150%;
+	}
+	.others{
+		margin-right:50px; 
+	}
+	.logo--hover{
+		padding-top: 50%;
+		text-align: center;
+	}
+  .header-HELLO ul {
+  display: inline;
+}
+  .header-HELLO ul li {
+  	display: inline-block;
+  }
+   .header-HELLO ul li:hover ul {
+	display: block;
+	background: #f9f9f9;
+	height: 1080px;
+	width: 210%;
+	top: 0px;
+	z-index: 3;
+	left: -20px;
+	text-decoration: none;
+}
+  .header-HELLO ul li ul {
+  position: absolute;
+  width: 200px;
+  display: none;
+}
+  .header-HELLO ul li ul li { 
+  padding: 10px; 
+  display: block; 
+}
+ .header-HELLO ul li ul li a {
+	display:block !important;
+	text-decoration: none;
+    color: black;
+} 
+   .header-HELLO ul li ul li a:hover {
+  	color:#fcbebd; 
+  }
+  .header-HELLO ul li ul li:hover {
+  	color:#fcbebd; 
+  }
+}
+@media only screen and (max-width: 1024px){
+	.immigration1 .immigration1--section{
+		width: 85%;
+		font-size: 24px;
+	}
+	.nav-section{
+		width: 40%;
+		font-size: 24px;
+	}
+	.nav-img__imgnav{
+		position: absolute;
+		width: 150%;
+		left: 1.7%;
+		z-index: -1;
+	}
+	.education1 .immigration1--section1{
+		width: 120%;
+		margin-left: -23%;
+	}
+	.education1 .education1-img{
+		background-position: center;
+	}
+	.accom1 .immigration1--section{
+		font-size: 23px;
+	}
+	.accom1 button{
+		width: 90%;
+	}
+	.orien1 .immigration1--section1{
+		width: 97%;
+		font-size: 22px;
+	}
+	.corpo1 .immigration1--section{
+		width: 93%;
+		font-size: 22px;
+	}
+	.posison-flex{
+		font-size: 16px;
+		right: 30px;
+	}
+	.test1 .test1-left-chevron{
+		top: 490px;
+		left: 75%;
+	}
+	.header-menu__selection{
+		margin-left: -10px;
+	}
+	.header-menu__selection ul{
+		font-size: 22px;
+	}
+	.header-menu__logo img{
+		margin-left: -20px;
+		width: 175px;
+		height: auto;
+	}
+	.aboutus--header-section{
+		width: 85%;
+		font-size: 24px;
+	}
+	.aboutus--header-section p{
+		font-size: 24px;
+	}
+	.wordpass .wordpass--header .aboutus--nav-background p{
+		width: 105%;
+		font-size: 21px;
+	}
+	.wordpass .wordpass--header .aboutus--nav-background h2{
+		font-size: 70px;
+	}
+	.forcor--section{
+		margin-left: -20%;
+	}
+	.forcor--section h2{
+		font-size: 46px;
+	}
+	.permanent--section{
+		margin-right: -30px;
+	}
+	.permanent--section p{
+		font-size: 22px;
+	}
+	.wordpass .wordpass--header h2{
+		font-size: 70px !important;
+	}
+	.education h2{
+		font-size: 36px;
+	}
+	.education p{
+		font-size: 24px;
+	}
+	.education--header-section{
+		width: 135%;
+	}
+	.application--section{
+		width: 125%;
+	}
+	.homestay--section{
+		width: 125%;
+		margin-left: -22%;
+	}
+	.programs--section{
+		width: 130%;
+	}
+	.internship--section{
+		width: 145%;
+	}
+	.internship--background-white p{
+		margin-top: 0px;
+	}
+	.internship--background-white ul{
+		margin-top: -5px;
+	}
+	.internship--background-white li{
+		margin-top: -5px;
+	}
+	.blog--section{
+		width: 130%;
+	}
+	
+}
+@media only screen and (max-width: 720px){
+  .lotus{
+	font-size: 24px;
+  }
+  .header-menu{
+    display: none;
+  }
+  .icon--header-left-mobi{
+  	display: block;
+  }
+  .icon--header-left{
+  	display: none;
+  }
+  .icon--lotus-header-mobi{
+  	display: inline-block;
+  	max-width: 37px;
+  	height: 60px;
+  	margin-left: 11.11%;
+  	margin-top: 30px;
+  	position: absolute;
+  	z-index: 3;
+  }
+  .header-HELLO .icon--lotus-header-mobi{
+  	top: 0;
+  }
+  .posison-flex{
+		font-size: 14px;
+		right: 20px;
+	}
+  .header-HELLO{
+  	height: 1080px;
+	width: 100%;
+	background-color: rgba(150,37,52,0.6);
+  }
+  .lotus .img-header{
+  	background-position: center;
+  }
+  .wordpass-logo img{
+  	width: 95px;
+  	height: 100px;
+  	position: absolute;
+  	top: 0;
+  	left: 120px;
+  }
+  .accom1 .wordpass-logo img,.immigration1 .wordpass-logo img{
+  	left: -7.5%;
+  }
+  .wordpass-logo h2{
+  	font-size: 35px;
+  	margin-left: 230px;
+  	margin-top: 30px;
+  }
+  .img-header-eponsive-none{
+  	display: none;
+  }
+  .lotus .col--background--red{
+  	width: 200%;
+  }
+  .lotus .header-HELLO{
+  	width: 200%;
+  }
+  .logo-reponsiver{
+  	display: block;
+  }
+  .lotus .nav-img__imgnav{
+  	width: 100%;
+  	position: absolute;
+  	background-image: url("../img/bg-rev-lotus-nav.png");
+  	background-position: center;
+	height: 1080px;
+	left: 0%;
+	background-size: cover;
+  }
+  .lotus .header-HELLO h2{
+  	font-size: 100px;
+  	position: absolute;
+  	left: 22%;
+  	top: 20px;
+  }
+  .header-left-chevron{
+  	position: absolute;
+  	top: 495px;
+  	left: 123%;
+  }
+  .header-right-chevron{
+  	position: absolute;
+  	top: 495px;
+  	right: 20px;
+  }
+  .nav{
+  	position: relative;
+  }
+  .nav .nav-section{
+  	position: absolute;
+  	top: 0px;
+  	left: 5%;
+  	width: 80%;
+  }
+  .nav .nav-section p{
+  	font-size: 26px;
+  	text-align: center;
+  }
+  .nav .nav-section h3{
+  	font-size: 40px;
+  	text-align: center;
+  }
+  .nav .nav-section button{
+  	width: 55%;
+  	height: 60px;
+  	margin-left:22%;
+  	margin-top: 20px;
+  }
+  .nav-reponsive-white-none{
+  	display: none;
+  }
+  .immigration1-reponsiver{
+  	display: none;
+  }
+  .immigration1 .wordpass-logo-mobi-none{
+  	display: none;
+  }
+  .immigration1 .wordpass-logo-mobi{
+  	display: block;
+  	z-index: 1;
+  }
+  .immigration1 .header-HELLO-mobi{
+	height: 1080px;
+	width: 100.1%;
+	background-color: rgba(150,37,52,0.6);
+  }
+  .immigration1 .immigration-img1{
+  	margin-left: 0px;
+  	background-position: center;
+  }
+  .immigration1{
+  	position: relative;
+  }
+  .immigration1 h2{
+  	color: #fff;
+  }
+  .immigration1 .immigration1--section{
+  	position: absolute;
+  	left: 5%;
+  	width: 80%;
+  	display: flex;
+  	flex-direction: column;
+  	justify-content: center;
+  }
+  .immigration1 .immigration1--section p{
+  	font-size: 26px;
+  	text-align: center;
+  }
+  .immigration1 .immigration1--section h3{
+  	font-size: 40px;
+  	text-align: center;
+  }
+  .immigration1 .immigration1--section ul{
+  	margin-left: 80px;
+  }
+  .immigration1 .immigration1--section ul li{
+  	margin: 0px;
+  	font-size: 26px;
+
+  }
+  .immigration1 .immigration1--section button{
+  	width: 55%;
+  	height: 60px;
+  	margin-left: 120px;
+  	margin-top: 20px;
+  }
+  .immigration1 .col--background--red{
+  	width: 100%;
+  }
+  .education1{
+  	position: relative;
+
+  }
+  .education1 .internship--color-brown-reponsive-none{
+  	display: none;
+  }
+  .education1-img{
+  	width: 150%;
+  	background-position: center;
+  }
+  .education1 .education1--section{
+  	font-size: 26px;
+  	line-height: 1.4;
+  	width: 105%;
+  	position: absolute;
+  	display: flex;
+  	flex-direction: column;
+  	justify-content: center;
+  	right: 5%;
+  	text-align: center;
+  }
+  .lotus--background-white-mobi{
+  	background-color: rgba(251,253,253,0.6);
+	height: 1080px;
+	width: 100%;
+  }
+  .education1 .education1--section p{
+  	margin-top: 40px;
+  }
+  .education1 .education1--section button{
+  	width: 40%;
+  	height: 60px;
+  	margin-top: 20px;
+  	right: 23%;
+  }
+  .accom1{
+  	position: relative;
+  }
+  .accom1--mobi-none{
+  	display: none;
+  }
+  .accom1 h2{
+  	color: #fff;
+  }
+  .accom1--mobi-header-HELLO{
+  	height: 1080px;
+	width: 100%;
+	background-color: rgba(150,37,52,0.6);
+  }
+  .accom1 .education1--section{
+  	position: relative;
+  	text-align: center;
+  	width: 190%;
+  	right: -15%;
+  }
+  .accom1 .education1--section p{
+  	margin-top: 40px;
+  }
+  .accom1 .education1--section button{
+  	width: 65%;
+  	height: 60px;
+  	margin-left: 0px;
+  	margin-top: -10px;
+  }
+  .accom1 .col--background--red{
+  	width: 300%;
+  }
+  .accom1 .wordpass-logo-mobi-none{
+  	display: none;
+  }
+  .accom1 .wordpass-logo-mobi{
+  	display: block;
+  	z-index: 1;
+  }
+  .orien1{
+  	width: 100%;
+  	position: relative;
+  }
+  .orien1 .immigration1--section1{
+  	font-size: 24px;
+  	position: absolute;
+  	right: 5%;
+  	text-align: center;
+  	width: 120%;
+  }
+  .orien1 .immigration1--section1 p{
+  	margin-left: 30px;
+  }
+  .orien1 .immigration1--section1 button{
+  	width: 42%;
+  	left: 48%;
+  }
+  .corpo1{
+  	clear: left;
+  	position: relative;
+  }
+  .corpo1 h2{
+  	color: #fff;
+  }
+  .corpo1 .immigration1--section{
+  	font-size: 24px;
+  	position: absolute;
+  	width: 70%;
+  	left: 10%;
+  	text-align: center;
+  	display: flex;
+  	flex-direction: column;
+  	justify-content: center;
+  }
+  .corpo1 .immigration1--section ul li{
+  	margin-bottom: 15px;
+  }
+  .corpo1 .immigration1--section p{
+  	margin-bottom: 30px;
+  }
+  .corpo1 .immigration1--section button{
+  	width: 65%;
+  	margin-left: 16%;
+  }
+  .test1{
+  	position: relative;
+  }
+  .test1 .test1-reponsiver-none{
+  	display: none;
+  }
+  .test1-left-chevron-reponsiver{
+    position: absolute;
+	max-width: 40px;
+	height: 50px;
+	display: inline-block;
+	top: 500px;
+	left: 30px;
+  }
+  .test1 .test1-right-chevron{
+    position: absolute;
+	top: 500px;
+	right: 30px;
+  }
+  .test1-img{
+  	width: 200%;
+  }
+  .test1 .test1-secsion-mobi{
+  	position: absolute;
+  	width: 112%;
+  	left: -5%;
+  }
+  .test1 .test1-secsion-mobi p{
+  	margin-bottom: 20px;
+  	text-align: center;
+  }
+  .aside{
+  	position: relative;
+  }
+  .aside--img-top{
+  	position: absolute;
+  	left: 80%;
+	width: 60px;
+	padding-left: 5px;
+	background: #fff;
+	z-index: 1;
+  }
+  .aside--logo img{
+  	position: absolute;
+  	left: 27%;
+  }
+  .aside--logo p{
+  	position: absolute;
+  	top: -30px;
+  	left: 10%;
+  	width: 77%;
+  	text-align: center;
+  	font-size: 24px;
+  }
+  .aside--title{
+  	margin-top: 350px;
+  	margin-left: 40%;
+
+  }
+  .aside--title ul{
+  	line-height: 1.2;
+  	z-index: 5;
+  	font-size: 24px;
+  }
+  .aside--address{
+  	margin-top: 345px;
+  	width: 180%;
+  	margin-left: 45%;
+  }
+  .aside--address ul{
+  	line-height: 1.2;
+  	font-size: 24px;
+  }
+  .asideicon{
+	display: none;
+  }
+  .asideicon-mobi{
+  	width: 80%;
+	height: 587px;
+	background-image: url("../img/asideicon.png");	
+	position: absolute;
+	top: 200px;
+	left: 130px;
+  }
+  .aside--selection-top{
+  	position: absolute;
+  	top: -200px;
+  	width: 115%;
+  	left: -130px;
+  }
+  .footer{
+  	width: 100%;
+  	position: relative;
+  	padding-bottom: 20px;
+  	background: #242424;
+  }
+  .footer--pdpa-margin{
+  	margin-left: -100px;
+  }
+  .footer--faq-margin{
+  	position: absolute;
+  	right: 40px;
+  	left: 42%;
+  	top: 40px;
+  }
+  .footer--term-margin{
+  	position: absolute;
+  	right: -90%;
+  	top: 40px;
+  	width: 100%;
+  }
+  .footer--ltd-margin,.footer--all-margin{
+  	display: none;
+  }
+  .footer-mobi{
+  	display: inline-block;
+  	padding: 20px 20%;
+  	text-align: center;
+  	color: black !important;
+  }
+  .footer-mobi::before{
+	content: '\00A9';
+	color: white;
+  }
+  .aboutus--header-img-mobi{
+  	background-image: url("../img/bg-abouts-header-mobi.jpg");
+  	width: 66.67%;
+	height: 1080px;
+	top: 0px;
+  }
+  .aboutus--header-img-mobi__white{
+  	background-color: rgba(251,253,253,0.6);
+	height: 1080px;
+  }
+  .aboutus--header-section{
+  	position: absolute;
+  	top: 300px;
+  	width: 80%
+  }
+  .aboutus--header-section p{
+  	text-align: center;
+  	margin-left: 10%;
+  }
+  .aboutus--nav-img{
+  	width: 200%;
+  	background-position: center;
+  }
+  .aboutus--section{
+  	width: 85%;
+  	text-align: center;
+  	margin-left: 7%;
+  }
+  .aboutus .aboutus--nav-background{
+  	margin-top: 1080px;
+  	width: 200%;
+  	margin-left: -100%;
+  	position: relative;
+  }
+  .aboutus .col--background--red{
+  	margin-top: 1080px;
+  	width: 200%;
+  	margin-left: -100%;
+  	position: relative;
+  	
+  }
+  .col--background--red .aboutus--section{
+  	margin-top: 400px;
+  }
+  .aboutus--nav-background-white-mobi{
+  	width: 200%;
+  }
+  .aboutus--nav-background-white-mobi .aboutus--section{
+  	margin-top: 400px;
+  }
+  .nav-logo-mobi{
+  	position: absolute;
+  	display: block;
+  	top: 0;
+  	left: 29.2%;
+  }
+  .nav-logo-mobi img{
+  	width: 95px;
+  	height: 100px;
+  }
+  .nav-logo-mobi h1{
+  	margin-left: 105px;
+  	margin-top:-70px;
+  	width: 100%;
+  	font-size: 30px;
+  }
+  .nav-logo{
+  	left: 29.2%;
+  }
+  .aboutus--logo-mobi-color-red{
+	position: absolute;
+	width: 209px ;
+	height: 100px;
+	left: 28.2%;
+	background-image: url("../img/aboutus--logo-mobi-color-red.png");
+  }
+  .aboutus--logo-mobi-color-red-hover{
+	position: absolute;
+	width: 209px ;
+	height: 100px;
+	left: 35%;
+	background-image: url("../img/aboutus--logo-mobi-color-red.png");
+	top: 0;
+  }
+  .icon-close{
+  	position: absolute;
+	width: 51px ;
+	height: 51px;
+	right: 60px;
+	background-image: url("../img/icon-close.png");
+	top: 20px;
+  	
+  }
+.aboutus--logo-mobi-color-white{
+	position: absolute;
+	width: 209px;
+	height: 100px;
+	left: 29.2%;
+	background-image: url("../img/aboutus--logo-mobi-color-wihte.png");
+	z-index: 3;
+  }
+  .wordpass--header .wordpass--header-background{
+  	width: 100.5%;
+  }
+  .wordpass .aboutus--nav-background{
+  	visibility: hidden;
+  }
+  .wordpass .aboutus--nav-background h2{
+  	visibility: visible;
+  	font-size: 89px;
+  	max-width: 960px;
+  	background-size: contain;
+  }
+  .wordpass .aboutus--nav-background p{
+  	visibility: visible;
+  	width: 390%;
+  	text-align: center;
+  	margin-left: 25%;
+  	font-size: 25px;
+
+  }
+  .wordpass--header-img{
+  	position: relative;
+  	width: 200%;
+  	right: 50%;
+  }
+  .aboutus--nav-background-mobi-left{
+  	background:#333333;
+	height: 1080px;
+	top: 0;
+	visibility: visible;
+  }
+  .aboutus--nav-background-mobi-right{
+  	position: absolute;
+  	background:#333333;
+	width: 50%;
+	height: 1080px;
+	top: 0;
+	left: 50%;
+  }
+  .lotus--color-brown-mobi-right{
+  	background-color: rgba(132,96,80,0.6);
+	height: 1080px;
+	top: 0;
+	left: 50%;
+	width: 50%;
+	position: absolute;
+  }
+  .lotus--color-brown-mobi-left{
+  	background-color: rgba(132,96,80,0.6);
+	height: 1080px;
+	top: 0;
+	width: 50%;
+	position: absolute;
+  }
+  .lotus--color-brownwhite-mobi{
+  	background-color: #f9f9f9;
+	height: 1080px;
+	width: 100.1%;
+  }
+  .lotus--background-white-mobi{
+	background-color: rgba(251,253,253,0.6);
+	height: 1080px;
+	width: 100%;
+  }
+  .student--color-brown-mobi{
+  	background-color: rgba(132,96,80,0.6);
+	height: 1080px;
+	top: 0;
+	width: 60%;
+	position: absolute;
+  }
+  .permanent--color-brown-mobi-left{
+  	background-color: rgba(132,96,80,0.6);
+	height: 1080px;
+	top: 0;
+	width: 300%;
+  }
+  .blog--color-brownwhite-mobi{
+  	background-color: #f9f9f9;
+	height: 540px;
+	width: 100.1%;
+  }
+  .blog--color-white-mobi{
+  	background-color: #fff;
+	height: 540px;
+	width: 100.1%;
+  }
+  .blog--background-white-mobi{
+	background-color: rgba(251,253,253,0.6);
+	height: 540px;
+	width: 100%;
+}
+  .wordpass--nav-img{
+  	position: relative;
+  	width: 200%;
+  }
+  .wordpass--nav .lotus--color-brown{
+  	visibility: hidden;
+  }
+  .wordpass--nav .wordpass--section{
+  	visibility: visible;
+  	z-index: 1;
+  	width: 120%;
+  	color: #fff;
+  	margin-right: 50%;
+  	position: absolute;
+  	left: 5%;
+  	text-align: center;
+  }
+  .forcor .lotus--color-brown{
+  	visibility: hidden;
+  }
+  .forcor--section{
+  	visibility: visible;
+  	z-index: 1;
+  	color: #fff;
+  	width: 210%;
+  	text-align: center;
+  	margin-left: -25%;
+  }
+  .forcor--section h2{
+  	font-size: 32px;
+  }
+  .forcor-img{
+  	position: absolute;
+  	width: 100%;
+  	right: 0%;
+  }
+  .forcor .wordpass-logo{
+  	visibility: hidden;
+  }
+  .nav-logo-mobi{
+  	z-index: 1;
+  }
+  .student{
+  	position: relative;
+  }
+  .student-img{
+  	width: 100%;
+  	background-position: center;
+  }
+  .lotus--background-black{
+  	width: 300%;
+  }
+  .aboutus--nav-background-mobi{
+  	background:#333333;
+	height: 1080px;
+	width: 300%;
+  }
+  .student--background-white {
+  	visibility: hidden;
+  }
+  .student .lotus--background-blackbrown{
+  	visibility: hidden;
+  }
+  .student .wordpass--section{
+  	width: 200%;
+  	margin-left: 10%;
+  	z-index: 1;
+  	visibility: visible;
+  	color: #fff;
+  	text-align: center;
+  }
+  .permanent-img{
+  	width: 100%;
+  	margin-left: -66.67%;
+  }
+  .permanent .permanent--section{
+  	z-index: 1;
+  	visibility: visible;
+  	text-align: center;
+  	width: 250%;
+  	margin-left: -25%;
+  }
+  .permanent .lotus--color-brown{
+  	visibility: hidden;
+  }
+  .permanent .lotus--background-blackbrown{
+  	visibility: hidden;
+  }
+  .permanent .lotus--background-black{
+  	margin-left: -200.1%;
+  }
+  .lotus-logo-mobi-white{
+  	color: #fff;
+  	position: absolute;
+  	visibility: visible;
+  	z-index: 1;
+  	background-image: url("../img/aboutus--nav-logo.png");
+  	width: 95px;
+	height: 100px;
+	left: 25.2%;
+
+  }
+  .lotus-logo-mobi-white h2{
+  	position: absolute;
+  	left: 120%;
+  	width: 280%;
+  	top: 15px;
+  }
+  .lotus-logo-mobi-white{
+	display: block;
+  }
+  .entry .lotus--color-brown{
+  	visibility: hidden;
+  }
+  .entry .entry--section{
+  	visibility: visible;
+  	color: #fff;
+  	width: 160%;
+  	z-index: 1;
+  	text-align: center;
+  }
+  .entry--section button{
+  	left: 28%;
+  }
+  .entry .aboutus--nav-background-mobi-left{
+  	width: 100%;
+  }
+  .entry-img{
+  	width: 150%;
+  }
+  .wordpass--nav .wordpass-logo,.student .wordpass-logo{
+  	visibility: hidden;
+  }
+  .entry .permanent--color-brown-mobi-left{
+  	width: 100%;
+  }
+  .wordpass--nav .btn--color-red,.student .btn--color-red,.entry .btn--color-red{
+  	display: none;
+  }
+  .wordpass--nav .btn--color-white-mobi,.student .btn--color-white-mobi,.entry .btn--color-white-mobi{
+  	display: inline-block;
+  	margin-left: 0%;
+  	width: 290px;
+	max-width: 100%;
+	height: 60px;
+	color: #962534;
+	background: #fff;
+	border: 1px solid #fff;
+	margin-top:50px; 
+	font-size: 26px;
+  }
+  .permanent .lotus-logo-mobi-white h2{
+  	top: 0%;
+  }
+  .education--header-img{
+  	width: 133.33%;
+  }
+  .wordpass--header .lotus--background-white{
+  	width: 83.33%;
+  }
+  .wordpass--header .lotus--color-brownwhite-mobi{
+  	width: 150%;
+  	margin-left: -50%;
+  }
+  .wordpass--header .aboutus--nav-background{
+  	width: 300%;
+  }
+  .wordpass--header .aboutus--nav-background p{
+  	font-size: 26px !important;
+  	margin-left: 10%;
+  }
+  ..wordpass--header .aboutus--nav-background h2{
+  	margin-right: 00%;
+  }
+  .education--header-section{
+  	text-align: center;
+  	z-index: 1;
+  	width: 175%;
+  	margin-left: 20%;
+  }
+  .application .application-img{
+  	width: 300%;
+  	margin-left: -50%;
+  }
+  .application .lotus--color-brown{
+  	visibility: hidden;
+  }
+  .application .application--section{
+  	visibility: visible;
+  	width: 170%;
+  	display: flex;
+  	flex-direction: column;
+  	justify-content: center;
+  	margin-left:-70%;
+  	text-align: center;
+  }
+  .homestay .lotus--color-brown{
+  	visibility: hidden;
+  }
+  .homestay .homestay--section{
+  	visibility: visible;
+  	z-index: 1;
+  	width: 170%;
+  	text-align: center;
+  	margin-left: 5%;
+  	margin-top: -50%;
+  }
+  .homestay--section h2{
+  	margin-right: 12%;
+  }
+  .homestay-img{
+  	width: 200%;
+  	margin-left: -100%;
+  }
+  .homestay  .lotus--background-white-mobi{
+  	width: 150%;
+  }
+  .homestay .lotus--color-brownwhite-mobi{
+  	width: 75%;
+  	margin-left: 25%;
+  }
+  .programs--section{
+  	z-index: 1;
+  	width: 237%;
+  	text-align: center;
+  	margin-left: -110%;
+  }
+  .internship--section{
+  	width: 160%;
+  	margin-left: -50%;
+  	text-align: center;
+  }
+  .internship--section p,.internship--section li{
+  	font-size: 22px;
+  }
+  .internship--section p{
+  	margin-top: 20px;
+  }
+  .internship--section h2{
+  	display: none;
+  }
+  .education .wordpass-logo {
+  	margin-left: 8%;
+  }
+  .blog-menu{
+  	display: none;
+  }
+  .blog--img-top,.blog--img-bottom,.blog-nav--img-top,.blog-nav--img-bottom,.blog-ban--img-top,.blog-ban--img-bottom{
+  	width: 300%;
+  }
+  .blog--section{
+  	width: 180%;
+  	margin-left: -42%;
+  	text-align: center;
+  	margin-top: 15%;
+  }
+  .blog--section h2{
+  	font-size: 30px;
+  }
+  .mobi-boton{
+  	margin-top: 1080px;
+  }
+  .contact .wordpass--header .lotus--color-brown{
+  	width: 300%;
+  	margin-left: -100%;
+  }
+  .contact--header-img{
+  	width: 300%;
+  }
+  .homestay--section{
+  	z-index: 2;
+  }
+  .contact--background-black{
+  	background-color: black;
+  }
+  .contact--background-gba-black{
+  	background-color: rgba(31,32,33,0.6);
+	height: 1160px;
+	width: 300%;
+  }
+  .homestay--section{
+  	padding-top: 65%;
+  	text-align: center;
+  	width: 120%;
+  	margin-left: -20%;
+  }
+  .others{
+  	margin-right: 10px;
+  }
+  .col-1-6 .lotus--color-brown{
+		visibility: visible;
+	}
+  .acticle--section{
+  	width: 80%;
+  	font-size: 24px;
+  	margin-top: -180px;
+  	text-align: center;
+  	margin-left: 10%;
+  }
+  .acticle-img{
+  	height: 360px;
+  	width: 200%;
+  }
+  .acticle--header-HELLO-mobi{
+  	position: absolute;
+  	top: 0;
+	height: 360px;
+	width: 100.1%;
+	background-color: rgba(150,37,52,0.8);
+  }
+  .acticle--background--red,.acticle--background-white{
+  	visibility: hidden;
+  }
+  .acticle--background--red h2{
+  	visibility: visible;
+  	width: 200%;
+  	font-size: 40px;
+  	position: absolute;
+  	top: 20%;
+  	left:-30%;
+  }
+  .acticle--background-brownblack{
+  	display: none;
+  }
+  .acticle--background--red p{
+  	visibility: visible;
+  	top: 320px;
+  	left: 70px;
+  }
+  .acticle--background--red-mobi{
+  	background: #962534;
+  	height: 360px;
+  	width: 50%;
+  }
+  .acticle-table{
+  	width: 125%;
+  	margin-left: -12.5%;
+  }
+  .acticle-table td{
+  	font-size: 26px;
+	padding: 0px;
+	text-align: left;
+  }
+  .acticle-table th{
+	font-size: 30px;
+	padding: 0px;
+  }
+  .table-margin-center{
+  	text-align: center !important;
+  }
+  .acticle--header-img-brown{
+  	display: none;
+  }
+  .acticle--background-brown{
+  	height: 2075px;
+  	width: 150%;
+  }
+  .acticle--header-img h2{
+  	width: 200%;
+  	margin-top: 20px;
+  	margin-bottom: 20px;
+  }
+  .acticle--img__background-red{
+  	height: 360px;
+  	margin-left: -100%;
+  	width: 100%;
+  }
+  .acticle-nav-img .blog--img-bottom{
+  	height: 360px;
+  }
+  .acticle-nav-img .blog-nav--img-bottom{
+  	height: 360px;
+  	margin-top: 720px;
+  	margin-left: -200%;
+  }
+  .acticle-nav-img .blog-nav--img-top{
+  	height: 360px;
+  	margin-top: 360px;
+  	margin-left: -100%;
+  }
+  .acticle-nav-img img{
+  	display: none;
+  }
+  .aboutus--nav-section-margin-top .aboutus--nav-img-background,.aboutus--nav-section-margin-top .aboutus--nav-background{
+  	display: flex;
+  	flex-direction: column;
+  	justify-content: center;
+  }
+  .aboutus--section--col-top,.aboutus--nav-section-margin-top .aboutus--section2-col-top{
+  	margin-top: 0px;
+  }
+}
+@media only screen and (max-width: 621px){
+	.wordpass .aboutus--nav-background h2{
+		font-size: 72px;
+	}
+	.blog--section h2{
+  	font-size: 29px;
+  }
+}
+@media only screen and (max-width: 521px){
+	button{
+		font-size: 20px !important;
+	}
+	.lotus .header h2{
+  	font-size: 80px;
+  	left: 1%;
+  	top: 0px;
+  }
+  .wordpass-logo img{
+  	width: 80px;
+  	height: 80px;
+  }
+  .wordpass-logo-mobi{
+  	width: 80px;
+  	height: 80px;
+  }
+  .wordpass-logo h2{
+  	font-size: 28px;
+  	margin-top: 25px;
+  }
+  .nav .wordpass-logo{
+  	right: 83%;
+  }
+  .nav .wordpass-logo h2{
+  	margin-left : 250%;
+  }
+  .immigration1 .wordpass-logo{
+  	right: 21%;
+  }
+  .immigration1 .immigration1--section p{
+  	font-size: 22px;
+  }
+  .education1 .wordpass-logo{
+  	right: 25%;
+  }
+  .education1 .immigration1--section1 p{
+  	font-size: 22px;
+  }
+  .accom1 .wordpass-logo{
+  	right: 11%;
+  }
+  .accom1 .immigration1--section{
+  	width: 60%;
+  }
+  .accom1 .immigration1--section p{
+  	font-size: 22px;
+  }
+  .orien1 .wordpass-logo{
+  	right: 20%;
+  }
+  .orien1 .immigration1--section1 p,ul{
+  	font-size: 22px;
+  }
+  .corpo1 .wordpass-logo{
+  	right: 23%;
+  }
+  .corpo1 .immigration1--section{
+  	width: 80%;
+  }
+  .corpo1 .immigration1--section p,ul{
+  	font-size: 22px;
+  }
+  .test1 .wordpass-logo{
+  	right: 17%;
+  }
+  .test1-left-chevron-reponsiver{
+  	left: 2%;
+  }
+  .test1-right-chevron{
+  	left: 82%;
+  }
+  .test1-secsion-mobi p{
+  	font-size: 22px;
+  }
+  .aside--logo p{
+  	font-size: 22px;
+  }
+  .aside--title a{
+  	font-size: 20px;
+  }
+  .aside--address li{
+  	font-size: 20px;
+  }
+  .aside--logo img{
+  	left: 50px;
+  }
+  .footer--pdpa-margin{
+  	font-size: 18px;
+  	margin-left: -60%;
+  }
+  .footer--faq-margin{
+  	margin-left: -4%;
+  	font-size: 18px;
+  }
+  .footer--term-margin{
+  	font-size: 18px;
+  	margin-right: 35%;
+  }
+  .footer-mobi{
+  	font-size: 18px;
+  }
+  .wordpass .aboutus--nav-background h2{
+		font-size: 57px;
+  }
+  .entry--section button{
+  	left: 18%;
+  }
+  .lotus-logo-mobi-white{
+  	left: 10%;
+  }
+  .blog--section h2{
+  	font-size: 28px;
+  }
+}
+@media only screen and (max-width: 421px){
+	.lotus .header h2{
+  	font-size: 50px;
+  	left: 5%;
+  	top: 20px;
+  }
+  .wordpass-logo h2{
+  	font-size: 22px;
+  }
+  p,li,a{
+  	font-size: 20px !important;
+  } 
+  .header-right-chevron{
+  	right: 2%;
+  }
+  .nav .nav-section p{
+  	font-size: 20px;
+  	left: 0%;
+  }
+  .nav .wordpass-logo{
+  	right: 98%;
+  }
+  .nav-section button{
+  	font-size: 20px;
+  }
+  .nav .wordpass-logo h2{
+  	margin-left: 340%;
+  }
+  .immigration1 .immigration1--section ul{
+  	margin-left: 10%;
+  }
+  .immigration1 .immigration1--section button{
+  	margin-left: 25%;
+  }
+  .wordpass .aboutus--nav-background h2{
+		font-size: 40px;
+		margin-left: 40%;
+	}
+	.lotus-logo-mobi-white{
+  	left: 0%;
+  }
+  .lotus-logo-mobi-white h2{
+  	font-size: 24px;
+  }
+  .wordpass--header .aboutus--nav-background{
+  	width: 110%;
+  }
+  .forcor .forcor--section{
+  	width: 220%;
+  }
+  .student .wordpass--section{
+  	width: 220%;
+  	margin-left: 0%;
+  }
+  .permanent .permanent--section{
+  	width: 300%;
+  	margin-left: -50%;
+  }
+  .entry .entry--section{
+  	width: 200%;
+  	margin-left: -20%;
+  }
+  .nav-logo, .nav-logo-mobi{
+  	left: 10%;
+  }
+}
+@media only screen and (max-width: 321px){
+	.nav .wordpass-logo{
+  	right: 115%;
+  }
+  p,li,a{
+  	font-size: 18px !important;
+  }
+  button{
+  	font-size: 18px !important;
+  	height: 40px !important;
+  }
+  .aside--logo img{
+  	left: 6.5%;
+  }
+  .asideicon-mobi{
+  	left: 35%;
+  }
+  .footer--pdpa-margin{
+  	position: relative;
+  	left: -22%;
+  }
+  .aboutus--nav h2{
+  	font-size: 36px !important;
+  }
+  .wordpass--header .aboutus--nav-background{
+  	width: 120%;
+  }
+  .wordpass--header .aboutus--nav-background h2{
+  	font-size: 30px;
+  }
+  .forcor .forcor--section{
+  	width: 220%;
+  }
+  .student .wordpass--section{
+  	width: 220%;
+  	margin-left: 0%;
+  }
+  .permanent .permanent--section{
+  	width: 300%;
+  	margin-left: -50%;
+  }
+  .entry .entry--section{
+  	width: 200%;
+  	margin-left: -20%;
+  }
+}
+
+
+
+
